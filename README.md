@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://osx-apps.github.io/.github/reaper-daw">  
+<a href="https://za-loop-osx-software.github.io/.github/reaper-daw">  
 <img src="https://img.shields.io/badge/⬇️_Get_Reaper_for_Mac-blue?style=for-the-badge&logo=apple" alt="Get Reaper for Mac">  
 </a>  
 </div>  
